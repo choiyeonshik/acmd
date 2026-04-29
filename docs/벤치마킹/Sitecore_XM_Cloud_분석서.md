@@ -198,3 +198,18 @@ Sitecore XM Cloud는 클라우드 네이티브 CMS와 개인화 기능을 결합
 - 개인화 규칙엔 설명가능성(왜 이 콘텐츠가 노출되었는지) 기능 필요
 - 실험/성과 측정 루프를 CMS 내부 워크플로우와 통합해야 실효성 확보
 - 데이터 지연/누락 시 기본경험 제공하는 회복탄력성 설계가 필수
+
+## 부록 A. 용어사전 (약어 Full Name)
+
+- ACMS: Agentic Contents Management System
+- CMS: Content Management System
+- CDP: Customer Data Platform
+- CRM: Customer Relationship Management
+- IAM: Identity and Access Management
+- SSO: Single Sign-On
+- CTA: Call To Action
+- CTR: Click-Through Rate
+- CVR: Conversion Rate
+- RCA: Root Cause Analysis
+- SLA: Service Level Agreement
+- P0/P1: Priority 0 / Priority 1

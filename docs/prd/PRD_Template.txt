@@ -545,3 +545,22 @@
 - 작성일: 2024년 3월 8일
 - 기반: .taskmaster/docs/prd.txt 형식
 - 최적화 대상: Cursor AI + Task Master AI
+
+## 부록 A. 용어사전 (약어 Full Name)
+
+- PRD: Product Requirements Document
+- KPI: Key Performance Indicator
+- MVP: Minimum Viable Product
+- API: Application Programming Interface
+- RBAC: Role-Based Access Control
+- SQL: Structured Query Language
+- WCAG: Web Content Accessibility Guidelines
+- PWA: Progressive Web App
+- DBMS: Database Management System
+- CI/CD: Continuous Integration / Continuous Deployment
+- OWASP: Open Worldwide Application Security Project
+- XSS: Cross-Site Scripting
+- UI/UX: User Interface / User Experience
+- RTO: Recovery Time Objective
+- RPO: Recovery Point Objective
+- AI: Artificial Intelligence

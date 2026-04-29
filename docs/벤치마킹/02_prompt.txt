@@ -33,3 +33,27 @@ Agentic CMS(Contents Management System) 기능 분석서 검토 요청
 - 제품별 Killing Point 표시
 - 산출물: /docs/벤치마킹 경로 하위에 03_벤치마킹결과비교.md 산출물
 **기대효과**: 벤치마킹 결과 신제품 개발 기능에 반영
+
+---
+부록 A. 용어사전 (약어 Full Name)
+
+- ACMS: Agentic Contents Management System
+- CMS: Content Management System
+- PRD: Product Requirements Document
+- KPI: Key Performance Indicator
+- MVP: Minimum Viable Product
+- API: Application Programming Interface
+- DAM: Digital Asset Management
+- RBAC: Role-Based Access Control
+- SSO: Single Sign-On
+- CDP: Customer Data Platform
+- CRM: Customer Relationship Management
+- IAM: Identity and Access Management
+- SLA: Service Level Agreement
+- SLO: Service Level Objective
+- A/B/N Test: A/B/N Testing
+- CTR: Click-Through Rate
+- CVR: Conversion Rate
+- HITL: Human-in-the-Loop
+- UI/UX: User Interface / User Experience
+- QA: Quality Assurance

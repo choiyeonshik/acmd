@@ -212,3 +212,24 @@ AEM은 대규모 기업의 브랜드 콘텐츠를 중앙 관리하고, 다채널
 - AI 기능은 "자동 생성"보다 "정책 준수 + 검수 가능한 제안"이 핵심
 - 모델 기반 콘텐츠 설계를 먼저 확정하고, 페이지 저작은 상위 추상화로 제공
 - 멀티채널 API 전달과 캐시 전략을 기능 요구와 함께 동시 설계 필요
+
+## 부록 A. 용어사전 (약어 Full Name)
+
+- ACMS: Agentic Contents Management System
+- CMS: Content Management System
+- API: Application Programming Interface
+- DAM: Digital Asset Management
+- RBAC: Role-Based Access Control
+- SSO: Single Sign-On
+- CDP: Customer Data Platform
+- CRM: Customer Relationship Management
+- IAM: Identity and Access Management
+- OAuth2: Open Authorization 2.0
+- OIDC: OpenID Connect
+- DLQ: Dead Letter Queue
+- SLA: Service Level Agreement
+- HITL: Human-in-the-Loop
+- QA: Quality Assurance
+- P95: 95th Percentile
+- MFA: Multi-Factor Authentication
+- GDPR: General Data Protection Regulation
